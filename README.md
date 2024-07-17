@@ -2,4 +2,4 @@
 
 First setup from browser by installing extension for the first time and then install this on your android device to start farming on background.
 
-<img src="demo.png" width="320"/>
+<img src="demo.png" width="340"/>
